@@ -1,4 +1,7 @@
 tmp/data.txt
 
 tmp/*
-*.txts
+
+*.txt
+
+*.png
