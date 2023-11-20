@@ -4,8 +4,6 @@ tmp/*
 
 *.txt
 
-*.png
-
 *.mp4
 
-*.jpg
+data/*
