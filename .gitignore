@@ -3,5 +3,9 @@ tmp/data.txt
 tmp/*
 
 *.txt
+*.mp4
+
+*.jpg
+
 
 data/*
